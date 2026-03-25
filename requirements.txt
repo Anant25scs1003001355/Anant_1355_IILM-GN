@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+reportlab
+numpy
+# pip install -r requirements.txt
