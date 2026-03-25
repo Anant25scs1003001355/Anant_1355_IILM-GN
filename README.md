@@ -100,7 +100,3 @@ smart-chef-ai/
 Pull requests are welcome! If you find a bug or have a feature suggestion, feel free to open an issue.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
