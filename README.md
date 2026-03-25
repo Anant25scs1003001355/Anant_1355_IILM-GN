@@ -15,10 +15,6 @@ A desktop recipe recommendation app built with Python and Tkinter. Enter the ing
 
 ---
 
-## 🖥️ Screenshot
-
-> *(Add a screenshot of your app here)*
-
 ---
 
 ## 🚀 Getting Started
